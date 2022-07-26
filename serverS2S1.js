@@ -4,9 +4,12 @@ http.createServer( function(req, res){
 
 	res.writeHead(200, {'Content-Type': 'text/plain'});
 
+	let num1 = 20; 
+	let num2 = 100;
+	let num3 = num1 + num2;
 
-	// Rutina de Codigo que se desea realizar 
+	console.log(num3);
 
-	res.end("Hola Mundo con NodeJs");
+	res.end("Hola Mundo con NodeJs ");
 
 }).listen(8080);
