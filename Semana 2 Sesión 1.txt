@@ -6,3 +6,4 @@ Objetivos
 2) Crear nuestro holamundo en node js 
 3) Levantar un servidor de node js 
 4) Commit y Pull de codigo en Github
+5) Linea de prueba para ver commit de lado del docente y pull de lado del estudiante 
